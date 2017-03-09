@@ -1,2 +1,3 @@
-# www.zifanjia.com
-子凡家
+#子凡家
+
+请访问 [http://zifanjia.com](http://zifanjia.com)
